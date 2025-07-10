@@ -24,5 +24,6 @@ public class Shopping_cart {
         System.out.println("your total is "+Currency + total);
 
         scn.close();
+
     }
 }

@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="483fc9e0-0865-45f0-bf2b-a9eae38d64a9" name="Changes" comment="FirstProject">
-      <change afterPath="$PROJECT_DIR$/src/Shopping_cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Compound_Intrest_calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shopping_cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shopping_cart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +37,18 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaProgramByGFG&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Shopping_cart">
+  <component name="RunManager" selected="Application.Compound_Intrest_calculator">
+    <configuration name="Compound_Intrest_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Compound_Intrest_calculator" />
+      <module name="Mad_Libs_Game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstProject" />
       <module name="Mad_Libs_Game" />
@@ -56,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Compound_Intrest_calculator" />
         <item itemvalue="Application.Shopping_cart" />
         <item itemvalue="Application.FirstProject" />
       </list>
