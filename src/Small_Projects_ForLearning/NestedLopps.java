@@ -1,3 +1,5 @@
+package Small_Projects_ForLearning;
+
 public class NestedLopps {
     public static void main(String[] args) {
         boolean isStudent = true;

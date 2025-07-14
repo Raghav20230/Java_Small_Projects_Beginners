@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="483fc9e0-0865-45f0-bf2b-a9eae38d64a9" name="Changes" comment="FirstProject">
-      <change afterPath="$PROJECT_DIR$/src/Object_Oriented_Programming/Method.java" afterDir="false" />
-    </list>
+    <list default="true" id="483fc9e0-0865-45f0-bf2b-a9eae38d64a9" name="Changes" comment="FirstProject" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
 }</component>
   <component name="RunManager" selected="Application.Method">
     <configuration name="Compound_Intrest_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Compound_Intrest_calculator" />
+      <option name="MAIN_CLASS_NAME" value="Small_Projects_ForLearning.Compound_Intrest_calculator" />
       <module name="Mad_Libs_Game" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,14 +72,14 @@
       </method>
     </configuration>
     <configuration name="NestedLopps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedLopps" />
+      <option name="MAIN_CLASS_NAME" value="Small_Projects_ForLearning.NestedLopps" />
       <module name="Mad_Libs_Game" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Shopping_cart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shopping_cart" />
+      <option name="MAIN_CLASS_NAME" value="Small_Projects_ForLearning.Shopping_cart" />
       <module name="Mad_Libs_Game" />
       <method v="2">
         <option name="Make" enabled="true" />

@@ -1,3 +1,5 @@
+package Small_Projects_ForLearning;
+
 import java.util.Scanner;
 
 public class Shopping_cart {
