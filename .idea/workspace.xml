@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="483fc9e0-0865-45f0-bf2b-a9eae38d64a9" name="Changes" comment="FirstProject" />
+    <list default="true" id="483fc9e0-0865-45f0-bf2b-a9eae38d64a9" name="Changes" comment="FirstProject">
+      <change afterPath="$PROJECT_DIR$/src/Small_Projects_ForLearning/Atm_Machine_Project_Using_Classes$Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +40,20 @@
     &quot;last_opened_file_path&quot;: &quot;D:/JavaProgramByGFG&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Method">
+  <component name="RunManager" selected="Application.Atm_Machine_Project_Using_Classes$Object">
+    <configuration name="Atm_Machine_Project_Using_Classes$Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Small_Projects_ForLearning.Atm_Machine_Project_Using_Classes$Object" />
+      <module name="Mad_Libs_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Small_Projects_ForLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Compound_Intrest_calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Small_Projects_ForLearning.Compound_Intrest_calculator" />
       <module name="Mad_Libs_Game" />
@@ -78,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shopping_cart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Small_Projects_ForLearning.Shopping_cart" />
-      <module name="Mad_Libs_Game" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Atm_Machine_Project_Using_Classes$Object" />
         <item itemvalue="Application.Method" />
         <item itemvalue="Application.Fundamental" />
         <item itemvalue="Application.NestedLopps" />
         <item itemvalue="Application.Compound_Intrest_calculator" />
-        <item itemvalue="Application.Shopping_cart" />
       </list>
     </recent_temporary>
   </component>
