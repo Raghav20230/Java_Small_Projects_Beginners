@@ -4,7 +4,10 @@ import java.util.Scanner;
 
 class ATM{
     float Balance;
-    int pin_Code=1234;
+    int pin_Code;
+    ATM(int pin_Code){
+        this.pin_Code=pin_Code;
+    }
     public void checkPin(){
         System.out.println("Enter your pin: ");
         Scanner scn = new Scanner(System.in);
@@ -68,7 +71,7 @@ class ATM{
 }
 public class Atm_Machine_Project_Using_Classes$Object {
     public static void main(String[] args) {
-    ATM a=new ATM();
+    ATM a=new ATM(1234);
     a.checkPin();
     }
 }
