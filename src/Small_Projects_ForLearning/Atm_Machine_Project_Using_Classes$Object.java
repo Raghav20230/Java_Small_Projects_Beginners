@@ -6,6 +6,7 @@ class ATM{
     float Balance;
     int pin_Code;
     ATM(int pin_Code){
+
         this.pin_Code=pin_Code;
     }
     public void checkPin(){
