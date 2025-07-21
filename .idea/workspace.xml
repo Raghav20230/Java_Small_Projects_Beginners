@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="483fc9e0-0865-45f0-bf2b-a9eae38d64a9" name="Changes" comment="FirstProject">
-      <change afterPath="$PROJECT_DIR$/src/Basic_Java/Method_Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic_Java/MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic_Java/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsJava/Inheritance/Hierarchical_Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicsJava/Inheritance/Multi_Level_inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car_Showroom_Management_System/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car_Showroom_Management_System/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car_Showroom_Management_System/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car_Showroom_Management_System/Showroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/T0_Invoke_ParentClass_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TO_Invoke_Parent_class_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/This$Super_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/To_Invoke_ParentClass_VariableUsingThis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicsJava/Inheritance/MultiLevelInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicsJava/Inheritance/MultiLevelInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Small_Projects_ForLearning/Atm_Machine_Project_Using_Classes$Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Small_Projects_ForLearning/Atm_Machine_Project_Using_Classes$Object.java" afterDir="false" />
-    </list>
+    <list default="true" id="483fc9e0-0865-45f0-bf2b-a9eae38d64a9" name="Changes" comment="FirstProject" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
